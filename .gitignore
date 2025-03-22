@@ -1,5 +1,5 @@
 # Virtual environment
-../etl_pipeline/.venv/
+../etl_data_pipeline/.venv/
 
 # Poetry cache
 .cache/pypoetry/
