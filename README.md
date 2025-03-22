@@ -12,11 +12,11 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process mo
 ## Database table schema
 This is my table schema
 
-![API Documentation Screenshot](../etl_pipeline/screenshots/db-schema.png)
+![API Documentation Screenshot](screenshots/db-schema.png)
 
 ## Project Structure
 ```
-/etl_pipeline
+/etl_data_pipeline
 │── .env                # Environment variables
 │── .gitignore          # Git ignore file
 │── pyproject.toml      # Project dependencies and metadata
@@ -44,7 +44,7 @@ This is my table schema
 ```
 ## Result
 
-![API Documentation Screenshot](../etl_pipeline/screenshots/db_result.png)
+![API Documentation Screenshot](screenshots/db_result.png)
 
 ## Installation
 ### Prerequisites
@@ -55,7 +55,7 @@ This is my table schema
 1. Clone the repository:
    ```sh
    git clone https://github.com/oluwadamme/Damilola-etl-pipeline
-   cd etl_pipeline
+   cd etl_data_pipeline
    ```
 2. Install dependencies:
    ```sh
